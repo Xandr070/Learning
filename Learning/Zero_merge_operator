@@ -9,6 +9,7 @@ if (result === null || result === undefined) {
     result = num2;
   }
 } */
+
 let num1 = 10,
     num2 = 20,
     result;
